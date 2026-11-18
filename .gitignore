@@ -1,0 +1,14 @@
+# construction
+build/
+dist/
+dist-onefile/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# donnees locales
+*.log
+sauvegardes/
